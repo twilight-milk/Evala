@@ -1,0 +1,245 @@
+
+.june-2023 {
+    position: relative;
+    font-weight: 500;
+}
+.chevron-child {
+    width: 14px;
+    position: relative;
+    height: 14px;
+}
+.chevron {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px;
+}
+.chevron-icon {
+    width: 46px;
+    height: 46px;
+    object-fit: contain;
+}
+.chevron-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.header {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 436px;
+    height: 46px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    font-size: 24px;
+    font-family: Montserrat;
+}
+.mo {
+    width: 24px;
+    position: relative;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 24px;
+    flex-shrink: 0;
+}
+.cell {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: Montserrat;
+}
+.cell1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-left: -1px;
+}
+.row2 {
+    width: 448px;
+    height: 76px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.div {
+    width: 24px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 24px;
+    flex-shrink: 0;
+}
+.cell7 {
+    background-color: #f4f4f3;
+    border: 1px solid #d5d4df;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    color: #a8a8a8;
+}
+.cell8 {
+    background-color: #f4f4f3;
+    border: 1px solid #d5d4df;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-left: -1px;
+    color: #a8a8a8;
+}
+.cell10 {
+    border: 1px solid #d5d4df;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-left: -1px;
+}
+.row21 {
+    width: 448px;
+    height: 76px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: -1px;
+}
+.cell14 {
+    border: 1px solid #d5d4df;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.row22 {
+    width: 448px;
+    height: 77px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: -1px;
+}
+.days {
+    position: absolute;
+    top: 88px;
+    left: 30px;
+    width: 436px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.calendarvariant2 {
+    position: absolute;
+    top: 272px;
+    left: 864px;
+    background-color: #ebebeb;
+    width: 496px;
+    height: 581px;
+    text-align: center;
+    font-size: 14px;
+    font-family: Inter;
+}
+.calendar1 {
+    position: absolute;
+    top: 272px;
+    left: 117px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.events {
+    position: absolute;
+    top: 473px;
+    left: 117px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.the-calendar-page {
+    position: absolute;
+    top: 344px;
+    left: 117px;
+    display: inline-block;
+    width: 609px;
+}
+.events-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #ebebeb;
+    width: 609px;
+    height: 55px;
+}
+.bscs-curriculum-evaluation {
+    position: absolute;
+    top: 16px;
+    left: 18px;
+}
+.date {
+    position: absolute;
+    top: 16px;
+    left: 447px;
+}
+.events1 {
+    position: absolute;
+    top: 597px;
+    left: 117px;
+    width: 609px;
+    height: 55px;
+}
+.date1 {
+    position: absolute;
+    top: 16px;
+    left: 466px;
+}
+.events2 {
+    position: absolute;
+    top: 537px;
+    left: 117px;
+    width: 609px;
+    height: 55px;
+}
+.date2 {
+    position: absolute;
+    top: 16px;
+    left: 430px;
+}
+.events3 {
+    position: absolute;
+    top: 657px;
+    left: 117px;
+    width: 609px;
+    height: 55px;
+}
+.calendar {
+    width: 100%;
+    position: relative;
+    background-color: #f4f4f3;
+    height: 1200px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 18px;
+    color: #000;
+    font-family: Montserrat;
+}
+

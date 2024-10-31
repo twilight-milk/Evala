@@ -1,0 +1,40 @@
+.navigator-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 85px;
+}
+.evala {
+    position: absolute;
+    top: 11px;
+    left: 46px;
+    display: inline-block;
+    font-weight: 700;
+    width: 77px;
+    height: 28px;
+}
+.prototype-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 46px;
+}
+.evala-parent {
+    position: absolute;
+    top: 19px;
+    left: 105px;
+    width: 123px;
+    height: 46px;
+}
+.navigator-bar {
+    width: 100%;
+    position: relative;
+    height: 85px;
+    text-align: left;
+    font-size: 24px;
+    color: rgba(89, 80, 79, 0.9);
+    font-family: Montserrat;
+}
+
